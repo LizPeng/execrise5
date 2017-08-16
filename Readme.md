@@ -72,3 +72,8 @@ function Cat(){
   }
 })()
 ```
+
+# notes
+
+exercise5 on事件；
+听到2:13:00 讲xxx yyy继承
